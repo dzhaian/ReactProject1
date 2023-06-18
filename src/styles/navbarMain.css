@@ -1,0 +1,7 @@
+.navbar-main ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}

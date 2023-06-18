@@ -1,0 +1,15 @@
+.component3{
+    display: flex;
+    justify-items: center;
+    background-color: #F13C6E;
+    height: 500px;
+    padding-top: 100px;
+    margin-top: 0;
+    padding-left: 200px;
+}
+
+.component3 img{
+    width: 330px;
+    height: 420px;
+    margin-right: 300px;
+}

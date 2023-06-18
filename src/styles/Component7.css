@@ -1,0 +1,11 @@
+.comp7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+}
+.image{
+    width: 278px;
+    height: 120px;
+}

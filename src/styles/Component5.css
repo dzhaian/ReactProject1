@@ -1,0 +1,9 @@
+.component5{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+}

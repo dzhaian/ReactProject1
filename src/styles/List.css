@@ -1,0 +1,22 @@
+.list {
+    list-style-type: none;
+    height: 250px;
+}
+
+.list li a{
+    color: #737373;
+    text-decoration: none;
+    display: flex;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.list strong {
+    font-weight: bold;
+    font-size: 17px;
+}
+.line {
+    border-top: 1px solid #c9c9c9;
+    margin: 10px 0;
+}
+

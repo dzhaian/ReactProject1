@@ -1,0 +1,25 @@
+.component2{
+    height: 604px;
+    margin-top: 44px;
+}
+
+.component2 Button{
+    height: 50px;
+    border-color: white;
+    background-color: #F13C6E;
+    color: white;
+}
+
+.component2 Button:hover {
+    background-color: white;
+    color: #F13C6E;
+}
+
+.component2 p{
+    font-size: 44px;
+    color: white;
+}
+.component2 h1{
+    color: white;
+    font-size: 16px;
+}

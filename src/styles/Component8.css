@@ -1,0 +1,59 @@
+.component-8{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    color: white;
+
+}
+.comp8{
+    margin-left: 30px;
+    margin-right: 50px;
+
+}
+
+.comp9{
+    margin-left: 30px;
+    margin-right: 50px;
+
+}
+.component8{
+    height: 220px;
+    width: 520px;
+    display: flex;
+    background-color: #F13C6E;
+    align-items: center;
+    justify-items: center;
+
+}
+.component9{
+    height: 220px;
+    width: 540px;
+    display: flex;
+    background-color: #F13C6E;
+    align-items: center;
+    justify-items: center;
+    color: white;
+
+}
+.image1{
+    width: 130px;
+    height: 120px;
+    margin-right: 50px;
+}
+
+.component9 Button{
+    height: 40px;
+    width: 170px;
+    align-items: center;
+    border-color: white;
+    background-color: #F13C6E;
+    color: white;
+}
+
+.component9 Button:hover {
+    background-color: white;
+    color: #F13C6E;
+    border-color: #F13C6E;
+}

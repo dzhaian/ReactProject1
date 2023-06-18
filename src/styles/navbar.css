@@ -1,0 +1,25 @@
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: #E5E5E5;*/
+    margin: 0;
+    padding: 0;
+}
+nav ul li a {
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #F13C6E;
+    color: white;
+    /*opacity: 80%;*/
+
+}
+
+

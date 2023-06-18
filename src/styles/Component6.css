@@ -1,0 +1,10 @@
+.component6{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 0;
+    padding-bottom: 30px;
+}
+.component6 p{
+    color: #505050;
+}
